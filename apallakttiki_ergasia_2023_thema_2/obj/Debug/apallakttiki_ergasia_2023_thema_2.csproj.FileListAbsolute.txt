@@ -1,0 +1,38 @@
+C:\Users\Anastasia\Desktop\ΣΧΟΛΗ\3ο ΕΞΑΜΗΝΟ\C#\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\bin\Debug\apallakttiki_ergasia_2023_thema_2.exe.config
+C:\Users\Anastasia\Desktop\ΣΧΟΛΗ\3ο ΕΞΑΜΗΝΟ\C#\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\bin\Debug\apallakttiki_ergasia_2023_thema_2.exe
+C:\Users\Anastasia\Desktop\ΣΧΟΛΗ\3ο ΕΞΑΜΗΝΟ\C#\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\bin\Debug\apallakttiki_ergasia_2023_thema_2.pdb
+C:\Users\Anastasia\Desktop\ΣΧΟΛΗ\3ο ΕΞΑΜΗΝΟ\C#\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.csproj.AssemblyReference.cache
+C:\Users\Anastasia\Desktop\ΣΧΟΛΗ\3ο ΕΞΑΜΗΝΟ\C#\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anastasia\Desktop\ΣΧΟΛΗ\3ο ΕΞΑΜΗΝΟ\C#\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.Form1.resources
+C:\Users\Anastasia\Desktop\ΣΧΟΛΗ\3ο ΕΞΑΜΗΝΟ\C#\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.Form2.resources
+C:\Users\Anastasia\Desktop\ΣΧΟΛΗ\3ο ΕΞΑΜΗΝΟ\C#\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.Form3.resources
+C:\Users\Anastasia\Desktop\ΣΧΟΛΗ\3ο ΕΞΑΜΗΝΟ\C#\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.Properties.Resources.resources
+C:\Users\Anastasia\Desktop\ΣΧΟΛΗ\3ο ΕΞΑΜΗΝΟ\C#\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.csproj.GenerateResource.cache
+C:\Users\Anastasia\Desktop\ΣΧΟΛΗ\3ο ΕΞΑΜΗΝΟ\C#\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\ΣΧΟΛΗ\3ο ΕΞΑΜΗΝΟ\C#\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.exe
+C:\Users\Anastasia\Desktop\ΣΧΟΛΗ\3ο ΕΞΑΜΗΝΟ\C#\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.pdb
+C:\Users\Anastasia\Desktop\ΣΧΟΛΗ\3ο ΕΞΑΜΗΝΟ\C#\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.Form4.resources
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.csproj.AssemblyReference.cache
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.csproj.SuggestedBindingRedirects.cache
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.exe
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.pdb
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\bin\Debug\apallakttiki_ergasia_2023_thema_2.exe.config
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\bin\Debug\apallakttiki_ergasia_2023_thema_2.exe
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\bin\Debug\apallakttiki_ergasia_2023_thema_2.pdb
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.Form1.resources
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.Form2.resources
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.Form3.resources
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.Form4.resources
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.Properties.Resources.resources
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.csproj.GenerateResource.cache
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.csproj.CoreCompileInputs.cache
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.Form5.resources
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\bin\Debug\EntityFramework.dll
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\bin\Debug\System.Data.SQLite.dll
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\bin\Debug\EntityFramework.xml
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\bin\Debug\System.Data.SQLite.xml
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\apallakttiki_ergasia_2023_thema_2\apallakttiki_ergasia_2023_thema_2\obj\Debug\apallakttiki_ergasia_2023_thema_2.csproj.CopyComplete
